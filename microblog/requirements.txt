@@ -120,7 +120,7 @@ python-dotenv==0.15.0
 python-editor==1.0.4
 python-etcd==0.4.5
 pytz==2020.5
-pywin32==228
+pywin32==301
 pywinpty==1.1.3
 pyzmq @ file:///C:/ci/pyzmq_1628276105793/work
 redis==3.5.3
